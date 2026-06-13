@@ -704,14 +704,6 @@ Possible future improvements include:
 
 ---
 
-## Author
-
-**Amir Honardoust**
-
-GitHub: [@AmirhosseinHonardoust](https://github.com/AmirhosseinHonardoust)
-
----
-
 ## License
 
 This project is intended for educational and portfolio purposes.
